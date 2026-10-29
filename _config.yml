@@ -1,0 +1,7 @@
+title: My Personal Blog
+email: leandrojrasantos@gmail.com
+description: A space to share insights about the world and discuss some ideas.
+baseurl:
+url: "https://leandrojrasanto.github.io"
+markdown: kramdown
+theme: minima
