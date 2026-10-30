@@ -5,7 +5,7 @@ date: 2026-10-29 10:00:00 -0300
 categories: general
 ---
 
-![Cover for article 'Understanding and Navigating Politics for Software Development']("../assets/covers/politics-archtecture-software.png")
+![Cover for article 'Understanding and Navigating Politics for Software Development']("https://github.com/leandrojrasanto/leandrojrasanto.github.io/blob/main/assets/covers/politics-archtecture-software.png?raw=true")
 
 ## Understanding and Navigating Politics for Software Development
 
@@ -79,7 +79,7 @@ Through a methodical examination of these variables' interactions, we reveal how
 
 This approach also fosters competitive product marketing, ultimately benefiting all parties with financial gains.
 
-![A visual guide of barganning]("../assets/infographics/bargainning.png")
+![A visual guide of barganning]("https://github.com/leandrojrasanto/leandrojrasanto.github.io/blob/main/assets/infographics/bargainning.png?raw=true")
 
 #### The Theoretical Framework of Negotiation in Engineering
 
