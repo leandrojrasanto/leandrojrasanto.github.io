@@ -79,7 +79,7 @@ Through a methodical examination of these variables' interactions, we reveal how
 
 This approach also fosters competitive product marketing, ultimately benefiting all parties with financial gains.
 
-![A visual guide of barganning](https://github.com/leandrojrasanto/leandrojrasanto.github.io/blob/main/assets/infographics/bargainning.png?raw=true) {: witdh="540" height="540"}
+![A visual guide of barganning](https://github.com/leandrojrasanto/leandrojrasanto.github.io/blob/main/assets/infographics/bargainning.png?raw=true)
 
 #### The Theoretical Framework of Negotiation in Engineering
 
