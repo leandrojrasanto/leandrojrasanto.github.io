@@ -5,3 +5,4 @@ baseurl:
 url: "https://leandrojrasanto.github.io"
 markdown: kramdown
 theme: minima
+google_analytics: "G-S2G4499SXQ"
