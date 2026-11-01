@@ -2,12 +2,10 @@
 layout: post
 title: "Understanding and Navigating Politics for Software Development"
 date: 2026-10-29 10:00:00 -0300
-categories: general
+categories: Soft Skills for Software Development
 ---
 
 ![Cover for article 'Understanding and Navigating Politics for Software Development'](https://github.com/leandrojrasanto/leandrojrasanto.github.io/blob/main/assets/covers/politics-archtecture-software.png?raw=true)
-
-## Understanding and Navigating Politics for Software Development
 
 Politics is often regarded as an unwelcome topic, especially among professionals in the technology sector.
 Yet it remains an inescapable part of professional life, as it fundamentally revolves around power, resources, survival, and human relationships.
